@@ -1,0 +1,270 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Carlos Ernesto",
+      "surnames": "Brooks Lorie",
+      "title": "Fullstack Engineer | React | Typescript | Java | Co-Founder MERCAZONA",
+      "description": "Fullstack Engineer with solid back-end knowledge of Java, Php, Nodejs. Front-end expertise using React, Nextjs and Typescript.\n#lovecode #lovetravel",
+      "avatar": {
+        "alt": "9870A758-843A-428E-8FF2-BB48C699C145.jpeg",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/24/f4dd12fa-27f5-4cdb-a5f7-50a2be494878_9870a758-843a-428e-8.jpeg"
+      },
+      "location": {
+        "country": "Cuba",
+        "region": "La Habana",
+        "municipality": "La Habana",
+        "notes": "Autocompleted using Google Maps API"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/carlosblinf"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Freelance"
+        },
+        "roles": [
+          {
+            "name": "Freelance",
+            "startDate": "2022-06-01",
+            "challenges": [
+              {
+                "description": "Skills: Spring Framework · Redis · Elasticsearch · Kubernetes · MongoDB · Hibernate · JPA · redux · Tailwind · Java · TypeScript · React.js · Docker · PostgreSQL · Next.js · Spring Boot"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "MERCAZONA"
+        },
+        "roles": [
+          {
+            "name": "CTO y desarrollador",
+            "startDate": "2019-10-01",
+            "finishDate": "2021-11-30",
+            "challenges": [
+              {
+                "description": "Skills: HTML · Hojas de estilos en cascada (CSS) · JavaScript · Java · PHP · Git · Windows · Node.js · React.js · Desarrollo web · Programación · jQuery · Docker · MySQL · PostgreSQL · Laravel · Servicios web de RESTful"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "VACANCY REWARDS"
+        },
+        "roles": [
+          {
+            "name": "Software Developer",
+            "startDate": "2019-04-01",
+            "finishDate": "2019-09-30",
+            "challenges": [
+              {
+                "description": "Skills: HTML · Hojas de estilos en cascada (CSS) · JavaScript · Git · Linux · Windows · Node.js · Desarrollo web · Programación · jQuery · Docker · MySQL · PostgreSQL · Servicios web de RESTful"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Sass",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Tailwind",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PostgreSQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Redis",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spring Boot",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TestingLibrary",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NextJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Express",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Laravel",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jest",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MaterialUI",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PHP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "RabbitMQ",
+          "type": "technology"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/carlosblinf"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Express",
+          "type": "technology"
+        },
+        {
+          "name": "JAVA",
+          "type": "technology"
+        },
+        {
+          "name": "NextJS",
+          "type": "technology"
+        },
+        {
+          "name": "NodeJS",
+          "type": "technology"
+        },
+        {
+          "name": "React",
+          "type": "technology"
+        },
+        {
+          "name": "Spring Boot",
+          "type": "technology"
+        }
+      ],
+      "discardedCompetences": [
+        {
+          "name": "PHP",
+          "type": "technology"
+        },
+        {
+          "name": "Visual Basic",
+          "type": "technology"
+        }
+      ]
+    },
+    "status": "searchingActively"
+  }
+}
