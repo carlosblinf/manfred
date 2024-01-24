@@ -104,7 +104,19 @@
       },
       {
         "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Express",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Go",
           "type": "technology"
         }
       },
@@ -129,12 +141,6 @@
       {
         "skill": {
           "name": "Jest",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Laravel",
           "type": "technology"
         }
       },
@@ -201,6 +207,18 @@
       {
         "skill": {
           "name": "Redis",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Redux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
           "type": "technology"
         }
       },
@@ -314,6 +332,28 @@
     "status": "searchingActively"
   },
   "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "Express",
+        "type": "technology"
+      },
+      {
+        "name": "NextJS",
+        "type": "technology"
+      },
+      {
+        "name": "React",
+        "type": "technology"
+      },
+      {
+        "name": "Tailwind",
+        "type": "technology"
+      },
+      {
+        "name": "TypeScript",
+        "type": "technology"
+      }
+    ],
     "desiredJobDescription": "Me gustaría trabajar en una empresa donde se impulsen el crecimiento y aprendizaje, donde no limiten la innovación, las nuevas ideas y la posibilidad de probar nuevas tecnologías. Un excelente equipo de trabajo, guiados por un staff capacitado y comprensivo",
     "goodPractices": "Testing, revisión de código, principios SOLID, patrones de diseño"
   }
